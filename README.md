@@ -1,13 +1,4 @@
 # Share Blog Post With Social Network
-=== Share Blog Post With Social Network ===
-Contributors: rpopli
-Author: Rajat Popli
-Author URI: https://rajatpopli.online
-Tags: WordPress, Blog, Share, Facebook
-Tested up to: 5.5
-Stable tag: trunk
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
